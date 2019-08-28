@@ -1,4 +1,4 @@
 # bold-demo
 
 
-this is my chanes file 
+this is my changes file 
