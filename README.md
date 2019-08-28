@@ -1,4 +1,4 @@
 # bold-demo
 
 
-this is my chnages file 
+this is my chanes file 
